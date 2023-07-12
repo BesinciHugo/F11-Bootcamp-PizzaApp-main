@@ -96,7 +96,7 @@ class _OrderPageState extends State<OrderPage> {
                   children: [
                     SizedBox(
                       width: 150,
-                      child: Text("pepperoni"),
+                      child: Text("Pepperoni"),
                     ),
                     Expanded(
                       child: Slider(
